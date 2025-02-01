@@ -1,0 +1,2 @@
+a="Example"
+print a
